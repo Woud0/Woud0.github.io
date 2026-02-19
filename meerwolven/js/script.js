@@ -13,4 +13,5 @@ function getCurrentRoles() {
     vermoord = document.getElementById("vermoord").value;
     heks = document.getElementById("heks").value;
     dief = document.getElementById("dief").value;
+    console.log("gelukt")
 }
